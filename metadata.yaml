@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2657
     wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41338#The-Memoirs-of-an-American-Citizen
 gutenberg_issued: '2012-11-10'
 gutenberg_type: Text
 identifiers:
